@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * *"   # once a day
   workflow_dispatch:       # lets you run it manually from the Actions tab
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: write
