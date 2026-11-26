@@ -57,27 +57,21 @@
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Languages & Tools
 
-<p align="center"><b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,swift,dart,rust,ts&theme=dark" alt="languages"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
-<p align="center"><b>AI / ML</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" alt="ai ml"/>
-</p>
-
-<p align="center"><b>Games, Apps & Backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=unity,godot,flutter,react,tauri,fastapi,flask,sqlite&theme=dark" alt="games and apps"/>
-</p>
-
-<p align="center"><b>Hardware & Dev Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,vscode&theme=dark" alt="hardware and tools"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
-  <img src="https://img.shields.io/badge/EasyEDA-1E88E5?style=for-the-badge" alt="EasyEDA"/>
-  <img src="https://img.shields.io/badge/Meta%20Quest%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Quest 3"/>
-</p>
+> I used to list C++, Python, Swift, Dart, Unity, ESP32... here.
+> These days my real workflow is opening three AI agents side by side, typing *"please fix it"*,
+> and then reviewing their code like a strict senior engineer who definitely knows what he's doing.
+>
+> My main job now is **project manager for a team of three AIs**: one writes the code, one says it's wrong,
+> and the third rewrites everything from scratch. 🫠
+>
+> It got so bad that I kept forgetting which one was waiting for me,
+> so I built **Beckonbell** to ring a bell when they need me. Yes, I had the AIs help build that too. 🔔
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
